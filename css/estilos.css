@@ -1,0 +1,226 @@
+#Izquierda{
+	width: 22%;
+	height: 1000px;
+	background: white;
+	position: relative;
+	float:left;
+}
+	#Izquierda>img
+	{
+			height: 37px;
+			margin: 0.5px 45px;
+			box-sizing: border-box;
+			cursor: pointer;
+	}
+		ul{
+			height: 30px;
+			list-style: none;
+		}
+		li{
+			position: relative;
+			box-sizing: border-box;
+			height: 5%;
+			line-height: 1px; /*especificar espacio o lugar de texto en lo verticla*/
+			color: black;
+			font-size: 15px;
+			cursor: pointer;
+		}
+			li>img
+				{
+				height: 30px;
+				margin-right: 1px;
+				cursor: pointer;
+				}
+		#usuario{
+		width: 20px;
+		padding: 10px 5px;
+		box-sizing: border-box;
+		cursor: pointer; 
+		}
+
+		#usuario-img{
+			height: 20px;
+			width: 20px;
+			margin-right: 10px;
+			border-radius: 50%;
+			position: center;
+			float: left;
+			background-color: yellow;
+			overflow: hidden;
+		}
+		#usuario-img>img{
+			height: 100%;
+		}
+		#Tweet
+		{
+			width: 65%;
+			height: 46px;
+			background: #00a8ff;
+			align-self: center; 
+			float:left;
+			border-radius: 22%;
+			margin-left: 25px;
+			cursor: pointer;
+		}
+		#Com
+		{
+			align-self: center; 
+			float:left;
+			margin-left: 68px;
+		}
+
+
+
+#InterIzquierdo{
+	width: 2px;
+	height: 600px;
+	background: #dcdde1;
+	position: relative;
+	float:left;
+}
+
+
+
+#Centro
+{	width: 50%;
+	height: 1000px;
+	background: white;
+	position: relative;
+	float:left;
+}
+		#Titl{
+			width: 100%;
+			height: 30px;
+			background: white;
+			float:left;
+		}
+		#Titl>p{
+			width: 30%;
+			height: 100px;
+			position: relative;
+			float: left;
+			margin-left: 5px;
+			}
+
+		#Tit{
+			width: 20%;
+			height: 30px;
+			background: white;
+			position: relative;
+			float: right;
+		}
+		#Tit-img>img{
+			height: 100%;
+			width: 20%;
+			margin-right: 8px;
+			float: right;
+		}
+		
+		#Write{
+			width: 100%;
+			height: 80px;
+			background: white;
+			float:left;
+		}
+		#L1{
+			height: 40px;
+			width: 40px;
+			margin-right: 5px;
+			margin-left: 5px;
+			margin-top: 5px;
+			border-radius: 50%;
+			position: center;
+			float: left;
+			background-color: white;
+			overflow: hidden;
+		}
+		#L1-2{
+			height: 10px;
+			width: 10px;
+			margin-right: 5px;
+			margin-left: 5px;
+			margin-top: 5px;
+			border-radius: 50%;
+			float: left;
+			background-color: white;
+			overflow: hidden;
+		}
+
+		
+	#Head1,	#Head3,	#Head4
+	{
+		width: 100%;
+		height: 2px;
+		background: gray;
+		position: relative;
+		float:left;
+	}
+	#Head2	{
+		width: 100%;
+		height: 8px;
+		background: gray;
+		position: relative;
+		float:left;
+	}
+	
+
+
+#InterDerecho{
+	width: 2px;
+	height: 600px;
+	background: #dcdde1;
+	position: relative;
+	float:left;
+}
+
+
+
+#Derecha
+{	width: 27%;
+	height: 1000px;
+	background: white;
+	position: relative;
+	float:right;
+
+}
+	#Search{
+		width: 90%;
+		height: 40px;
+		background: #dcdde1;
+		margin-right: 15px;
+		margin-left: 15px;
+		margin-top: 10px;
+		border-radius: 20%;
+		}
+		#Search-Com{
+			width: 70%;
+			height: 20px;
+			margin-left: 50px;
+		}
+		#Search-Img{
+			width: 20%;
+			height: 20px;
+		}
+		#Search-Img>img{
+			height: 15px;
+			width: 20%;
+			margin-right: 5px;
+			margin-left: 5px; 
+			margin-top: 10px;
+		}
+	#Trends{
+		width: 90%;
+		height: 600px;
+		background: #dcdde1;
+		margin-right: 15px;
+		margin-left: 15px;
+		margin-top: 10px;
+		border-radius: 5%;
+		}
+		#Sub1,#Sub2,#Sub3,#Sub4,#Sub5{
+		width: 100%;
+		height: 2px;
+		background: gray;
+		position: relative;
+		float:left;
+		margin-top: 10px;
